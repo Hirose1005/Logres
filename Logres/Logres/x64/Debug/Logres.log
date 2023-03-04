@@ -1,0 +1,3 @@
+﻿  MainApp.cpp
+d:\visualstudio2017\projects\c++\logres\logres\mainapp.cpp(9): error C2664: 'INT_PTR DialogBoxParamA(HINSTANCE,LPCSTR,HWND,DLGPROC,LPARAM)': 引数 2 を 'const wchar_t [12]' から 'LPCSTR' へ変換できません。
+  d:\visualstudio2017\projects\c++\logres\logres\mainapp.cpp(9): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
